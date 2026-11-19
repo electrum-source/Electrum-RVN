@@ -109,7 +109,7 @@ The trade-off is the same one every light client makes. A server answers the que
 4. Sign with the wallet password, or with the hardware device when one is connected.
 5. Watch the transaction move from pending to confirmed as blocks arrive.
 
-## Guides
+## Guides.
 
 <div align="center">
 
